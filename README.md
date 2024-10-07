@@ -28,7 +28,7 @@ We use the closing prices of Apple’s stock (AAPL) from the past 21 years (1999
 
 ### Data Retrieval
 
-Data was collected using the Alpha Vantage API. You can find the API tutorial [here](https://www.alphavantage.co/support/#api-key). Alternatively, the dataset used is available [here](https://example.com).
+Data was collected using the Alpha Vantage API. You can find the API tutorial [here](https://www.alphavantage.co/support/#api-key). Alternatively, the dataset used is available in data folder
 
 ## Creating a Neptune.ai Project
 
